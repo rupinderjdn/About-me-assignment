@@ -35,3 +35,8 @@ body{
     padding-bottom: 2px;
     padding-left: 1px;
 }
+@media (max-width:568px){
+    .name{
+        margin-top: 4rem;
+    }
+}
